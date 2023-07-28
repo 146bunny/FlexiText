@@ -1,1 +1,2 @@
 # FlexiText
+FlexiText is a powerful text transformation web app built using Django. With FlexiText, users can easily modify and manipulate text in a variety of ways, such as removing newlines, punctuations, capitalizing, converting to upper case, or changing to lowercase. This application harnesses the flexibility and robustness of Django to deliver a seamless user experience for text transformation.
